@@ -1,0 +1,1 @@
+This code has been developed in TI's Code Composer Studio 4.1 for use on the ez430-F2013 (or ez430-F2012) target board. A small LED driver board with a power supply has also been created for this project. The PCB is documented at http://weekendhobbyist.blogspot.com/2011/02/led-visor-msp430-concept.html
